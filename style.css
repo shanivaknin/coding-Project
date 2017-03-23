@@ -1,0 +1,57 @@
+#shoppingList {
+    background-size: cover;
+    background-color: blue;
+    background-position: center;
+    height: 200px;
+    background-image: url("https://dtpmhvbsmffsz.cloudfront.net/posts/2015/12/17/567331aed6b4a182b801521a/m_567331aed6b4a182b801521b.jpg" );
+}
+#eyes {
+    height: 200px;
+    background-image: url("https://i.ytimg.com/vi/WZerlq1RYUQ/maxresdefault.jpg" );
+    background-size: cover;
+    background-position: center;
+}
+#outfit{
+    background-image: url("https://s-media-cache-ak0.pinimg.com/736x/3f/c9/3b/3fc93bd2e98dbddc406cfc41c12017c3.jpg" );
+    height: 200px;
+    background-position: center;
+}
+ul li{
+    display: inline-block
+}
+
+/*div {*/
+/*    background-color: blue;*/
+/*    height: 200px;*/
+/*    width: 200px; */
+/*}*/
+/*.yellow {*/
+/*    background-color: yellow;*/
+/*    height:200px;*/
+/*    width:200px;*/
+/*}*/
+img {
+    width: 50%;
+    height: 50%;
+    
+}
+#imageOne {
+    width: 10%;
+    height: 10%;
+    }
+
+img{
+    width: 50%;
+    height: 50%;
+}
+
+#MainPic{
+ background-image: url("http://az616578.vo.msecnd.net/files/2017/01/28/6362116593780066211384157076_shopping-in-wexford-2048x1024.jpg" );
+    
+}
+
+div{
+    background-color: black;
+    
+}
+
