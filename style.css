@@ -21,6 +21,7 @@ ul li{
 }
 
 /*div {*/
+
 /*    background-color: blue;*/
 /*    height: 200px;*/
 /*    width: 200px; */
@@ -45,13 +46,15 @@ img{
     height: 50%;
 }
 
-#MainPic{
+#MainPic {
  background-image: url("http://az616578.vo.msecnd.net/files/2017/01/28/6362116593780066211384157076_shopping-in-wexford-2048x1024.jpg" );
     
 }
 
 div{
     background-color: black;
-    
+}
+#bullet {
+    color: red;
 }
 
